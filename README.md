@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Guxie91
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning Angular, Nodejs, Ionic
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me bellesi.guglielmo.91@gmail.com
